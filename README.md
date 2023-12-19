@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @renboy1222
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, Aldrin giving free tutorials.
+- 👀 I’m interested in new concepts.
+- 🌱 I’m currently learning in Micronaut.
+- 💞️ I’m looking to collaborate on Micronaut Rest API.
+- 📫 You can chat me.
 
 <!---
 renboy1222/renboy1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
