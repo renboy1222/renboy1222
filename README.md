@@ -12,7 +12,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renboy1222&layout=compact&theme=radical)
 
-[![YouTube](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.youtube.com/@javaprogrammingwithaldrin6583)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube)](https://www.youtube.com/@javaprogrammingwithaldrin6583)
 
 
 
