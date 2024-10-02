@@ -1,13 +1,18 @@
-- 👋 Hi, Aldrin giving free tutorials.
-- 👀 I’m interested in new concepts.
-- 🌱 I’m currently learning in Micronaut.
-- 💞️ I’m looking to collaborate on Micronaut Rest API.
-- 📫 You can chat me.
-
 ![](https://komarev.com/ghpvc/?username=renboy1222&color=green)
-<!---
-renboy1222/renboy1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-4682B4?style=for-the-badge&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/Swing-4682B4?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Swing-4682B4?style=for-the-badge&logo=java&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Swing-4682B4?style=for-the-badge&logo=java&logoColor=white)
+
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=renboy1222&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=renboy1222&layout=compact&theme=radical)
+
+[![YouTube](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.youtube.com/@javaprogrammingwithaldrin6583)
+
 
 
