@@ -1,7 +1,3 @@
-### Skills:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-5382a1?style=for-the-badge&logo=java&logoColor=white)
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-696969?style=for-the-badge&logo=swing&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFx-FF8C00?style=for-the-badge&logo=javafx&logoColor=white)
